@@ -1,7 +1,7 @@
 {
   "name": "@vuga/newrelic-lambda",
   "version": "0.0.1",
-  "description": "An small utility to instrument a lambda with NewRelic",
+  "description": "A small utility to instrument a lambda with NewRelic",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "files": [
@@ -22,7 +22,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/ceddybi/youtube-scrap.git"
+    "url": "git://github.com/ceddybi/newrelic-lambda.git"
   },
   "keywords": [
     "aws",
@@ -36,9 +36,9 @@
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ceddybi/youtube-scrap/issues"
+    "url": "https://github.com/ceddybi/newrelic-lambda/issues"
   },
-  "homepage": "https://github.com/ceddybi/youtube-scrap",
+  "homepage": "https://github.com/ceddybi/newrelic-lambda",
   "devDependencies": {
     "@types/aws-lambda": "^8.10.31",
     "@types/chai": "^4.0.4",
