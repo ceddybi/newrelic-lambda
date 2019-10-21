@@ -4,6 +4,7 @@
   "description": "A small utility to instrument a lambda with NewRelic",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
+  "private": false,
   "files": [
     "dist/",
     "register/",
